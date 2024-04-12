@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i.pinimg.com/originals/5b/73/0a/5b730a6d09c1b41f93ec57d2a91f8ea5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif; /* Or any other desired font */
+}
+
+.container {
+    text-align: center;
+    box-shadow: inset;
+    background-color:#ffffff75; /* Adjust opacity as needed */
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px auto; /* Center the container horizontally */
+    max-width: 500px;
+    height: 500px; /* Adjust width as needed */
+}
+input
+{
+margin-top: 10px;
+width: 252px;
+height: 40px;
+border-color: rgb(230, 203, 203);
+border-radius: 6px;}
+#submitDetails:hover{
+    background-color:rgb(79, 188, 106);
+}
+#submitDetails{
+    background-color: aquamarine;
+}
+
+
+/* Add other styles as needed */
